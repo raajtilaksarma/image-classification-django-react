@@ -3,4 +3,4 @@ Simple image classification with Django/React
 
 #### Motivation
 
-Just to check out `Django` and `React` development together.
+Just to check out `Django` (Django Rest Framework) and `React` development together.
