@@ -3,3 +3,5 @@
 /image-venv/include/
 /image-venv/share/
 /image-venv/src/image/__pycache__/
+/node_modules/
+
